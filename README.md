@@ -1,4 +1,4 @@
-# NCS Project
+# NCS Training Project
 Create a Video library system which stores a video title, video link,
 description, a set of tags [like cats, technology etc], Created Date, Updated
 Date using Spring Boot, persist the data in H2 Database
